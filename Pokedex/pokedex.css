@@ -1,0 +1,14 @@
+#pokemon {
+    display: inline-block;
+    width: 800px;
+    height: 500px;
+    overflow: scroll;
+}
+#index {
+    display: inline-block;
+    border: 15px solid red;
+    width: 300px;
+    height: 450px;
+    vertical-align: top;
+
+}
